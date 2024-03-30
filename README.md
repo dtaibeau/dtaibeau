@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dtaibeau !
+Hi, I’m Delphine! 👋
 - 👀 I’m interested in computer vision and the art of computational design.
 - 🌱 I’m currently learning p5.js!
 - 💞️ I’m looking to collaborate on computer vision/generative art/immersive audio-visual projects.
