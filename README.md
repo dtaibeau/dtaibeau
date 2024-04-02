@@ -1,6 +1,6 @@
 Hi, I’m Delphine! 👋
 - 👀 I’m interested in computer vision and the art of computational design.
-- 🌱 I’m currently learning p5.js, Assembly, and C!
+- 🌱 I’m currently learning p5.js, Assembly, and C/C++!
 - 💞️ I’m looking to collaborate on computer vision/generative art/immersive audio-visual projects.
 - 📫 How to reach me: Connect with me on LinkedIn! --> linkedin.com/in/delphinetb
 - ⚡ Fun fact: I love to produce music and DJ :-)
