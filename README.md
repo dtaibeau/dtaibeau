@@ -1,6 +1,6 @@
 Hi, I’m Delphine! 👋
 - 👀 I’m interested in AI/ML and computer vision.
-- 🌱 Currently learning React.js and DSA.
+- 🌱 Currently learning the ropes of LLMs and DSA.
 - 💞️ Looking to collaborate on computer vision/AI & ML/immersive audio-visual projects.
 - 📫 Connect with me on LinkedIn! --> linkedin.com/in/delphinetb
 - ⚡ Fun fact: I love to produce music and DJ.
